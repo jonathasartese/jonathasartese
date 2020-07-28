@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Jonathas Artese from Brazil (🇧🇷). I've been working as Software Developer since 2013 and currently I'm Sr Software Developer at [Positivo Tecnologia](https://www.positivotecnologia.com.br). 
+I'm passionate about technology and software development, so I always do courses and private projects to learn new techniques and technologies.
+
+In my free time I like to play (and watch) soccer (⚽️) and basketball(:basketball:), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I like to go out with my friends to talk about life with a beer (🍺).
+
+Would you like to find me?
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathas-thiberio-artese-a9b32b35/)](https://www.linkedin.com/in/jonathas-thiberio-artese-a9b32b35/)
+
